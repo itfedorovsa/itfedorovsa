@@ -1,7 +1,7 @@
 ### Hello, I'm Sergey! Welcome! :smiley:
 
 #### :memo: Some facts about me:  
-- 34 year old
+- 34 years old
 - Love programming :computer:  
 - Learn Java at [Job4j](https://job4j.ru/)
 - Overall Java expirience is more than 1 year  
@@ -61,7 +61,7 @@
 
 ***
 
-:telephone: Feel free to contact me:
+#### :telephone: Feel free to contact me:
 - Email: itfedorovsa@gmail.com
 - Telegram: [t.me/itfedorovsa](t.me/itfedorovsa)
 
