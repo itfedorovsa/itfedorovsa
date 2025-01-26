@@ -1,10 +1,9 @@
 ### Hello, I'm Sergey! Welcome! :smiley:
 
 #### :memo: Some facts about me:  
-- 34 years old
+- 35 years old
 - Love programming :computer:  
-- Learn Java at [Job4j](https://job4j.ru/)
-- Overall Java experience is more than 1 year  
+- Overall Java experience is more than 3 year  
 - Learn computer science at [PLSU](https://lengu.ru/inen/about-university/brief-description-of-the-university) (Pushkin Leningrad State University)  
 
 
