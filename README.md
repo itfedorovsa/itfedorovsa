@@ -3,7 +3,7 @@
 #### :memo: Some facts about me:  
 - 35 years old
 - Love programming :computer:  
-- Overall Java experience is more than 3 year  
+- Overall Java/Kotlin experience is more than 3 years
 - Learn computer science at [PLSU](https://lengu.ru/inen/about-university/brief-description-of-the-university) (Pushkin Leningrad State University)  
 
 
